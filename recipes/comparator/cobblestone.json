@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "stone_recipes:comparator_cobblestone"
+            },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            " 1 ",
+            "121",
+            "333"
+            ],
+        "key": {
+            "1": {
+                "item": "minecraft:redstone_torch"
+            },
+            "2": {
+                "item": "minecraft:quartz"
+            },
+            "3": {
+                "item": "minecraft:cobblestone"
+            }
+        },
+        "result": {
+            "item": "minecraft:comparator"
+            }
+        }
+    }
