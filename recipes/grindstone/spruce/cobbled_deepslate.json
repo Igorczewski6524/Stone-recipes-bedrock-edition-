@@ -1,0 +1,27 @@
+{
+    "format_version": "1.17",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "stone_recipes:grindstone_spruce_cobbled_deepslate"
+            },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "232",
+            "1 1"
+            ],
+        "key": {
+            "1": {
+                "item": "minecraft:spruce_planks"
+            },
+            "2": {
+                "item": "stick"
+            },
+            "3": {
+                "item": "cobbled_deepslate_slab"
+            }
+        },
+        "result": {
+            "item": "minecraft:grindstone"
+            }
+        }
+    }

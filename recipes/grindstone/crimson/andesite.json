@@ -1,0 +1,27 @@
+{
+    "format_version": "1.16",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "stone_recipes:grindstone_crimson_andesite"
+            },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "232",
+            "1 1"
+            ],
+        "key": {
+            "1": {
+                "item": "minecraft:crimson_planks"
+            },
+            "2": {
+                "item": "stick"
+            },
+            "3": {
+                "item": "andesite_slab"
+            }
+        },
+        "result": {
+            "item": "minecraft:grindstone"
+            }
+        }
+    }

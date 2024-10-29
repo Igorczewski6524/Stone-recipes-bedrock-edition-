@@ -1,0 +1,25 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "stone_recipes:dropper_stone"
+            },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "111",
+            "1 1",
+            "121"
+            ],
+        "key": {
+            "1": {
+                "item": "minecraft:stone"
+            },
+            "2": {
+                "item": "minecraft:redstone"
+            }
+        },
+        "result": {
+            "item": "minecraft:dropper"
+            }
+        }
+    }
