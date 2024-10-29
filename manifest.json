@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Datapack adds recipes from all types of stone, for recipes in which only cobblestone or stone can be used",
+      "name": "Stone recipes",
+      "uuid": "d69c1917-d185-4aea-9044-b9b874acc717",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 20, 0]
+    },
+    "modules": [
+      {
+        "description": "Recipes",
+        "type": "data",
+        "uuid": "4df8a514-5b4f-4df8-a10e-9327b3f050f3",
+        "version": [1, 0, 0]
+      }
+    ],
+    "metadata": {
+      "authors": ["Igorczewski6524"],
+      "license": "GPL-3.0"
+      }
+  }
+  
