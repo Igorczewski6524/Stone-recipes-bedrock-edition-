@@ -1,0 +1,31 @@
+{
+    "format_version": "1.17",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "stone_recipes:piston_birch_cobbled_deepslate"
+            },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "111",
+            "424",
+            "434"
+            ],
+        "key": {
+            "1": {
+                "item": "minecraft:birch_planks"
+            },
+            "2": {
+                "item": "minecraft:iron_ingot"
+            },
+            "3": {
+                "item": "minecraft:redstone"
+            },
+            "4": {
+                "item": "minecraft:cobbled_deepslate"
+            }
+        },
+        "result": {
+            "item": "minecraft:piston"
+            }
+        }
+    }

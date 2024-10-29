@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "stone_recipes:repeater_cobblestone"
+            },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "232",
+            "111"
+            ],
+        "key": {
+            "1": {
+                "item": "minecraft:cobblestone"
+            },
+            "2": {
+                "item": "minecraft:redstone_torch"
+            },
+            "3": {
+                "item": "minecraft:redstone"
+            }
+        },
+        "result": {
+            "item": "minecraft:repeater"
+            }
+        }
+    }

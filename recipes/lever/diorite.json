@@ -1,0 +1,24 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "stone_recipes:lever_diorite"
+            },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "2",
+            "1"
+            ],
+        "key": {
+            "1": {
+                "item": "minecraft:diorite"
+            },
+            "2": {
+                "item": "stick"
+            }
+        },
+        "result": {
+            "item": "minecraft:lever"
+            }
+        }
+    }

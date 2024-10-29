@@ -1,0 +1,27 @@
+{
+    "format_version": "1.17",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "stone_recipes:repeater_cobbled_deepslate"
+            },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "232",
+            "111"
+            ],
+        "key": {
+            "1": {
+                "item": "minecraft:cobbled_deepslate"
+            },
+            "2": {
+                "item": "minecraft:redstone_torch"
+            },
+            "3": {
+                "item": "minecraft:redstone"
+            }
+        },
+        "result": {
+            "item": "minecraft:repeater"
+            }
+        }
+    }

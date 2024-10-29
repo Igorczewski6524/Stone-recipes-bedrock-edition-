@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "stone_recipes:observer_granite"
+            },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "111",
+            "223",
+            "111"
+            ],
+        "key": {
+            "1": {
+                "item": "minecraft:granite"
+            },
+            "2": {
+                "item": "minecraft:redstone"
+            },
+            "3": {
+                "item": "minecraft:quartz"
+            }
+        },
+        "result": {
+            "item": "minecraft:observer"
+            }
+        }
+    }
